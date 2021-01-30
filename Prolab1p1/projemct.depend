@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539641803 source:c:\users\lenovo\desktop\projemct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
