@@ -1,2 +1,2 @@
-# KOUPL1P1-Traffic-flow-control
+# flow-control
 Traffic flow control with gauss jordan elimination method
